@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(black, grey);
+    min-height: 100vh;
+}
+h1{
+    text-align: left;
+    color: red;
+}
+p{
+    color: white;
+    text-align: left;
+}
